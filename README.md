@@ -1,2 +1,6 @@
 # bajaj-health-bill-extraction
-This project implements an automated invoice/bill data extraction system that reads multi-page documents, identifies all line items, and extracts item name, quantity, rate, and net amount with high accuracy. It also detects sub-totals (when present), extracts the final bill total, and ensures no items are double-counted or missed.
+A bill/invoice line-item extraction pipeline for the Bajaj Health Datathon.
+
+This project processes multi-page invoices, extracts line items, prevents duplicate counting, and reconciles totals against the actual invoice amount.
+
+More details will be added as the development progresses.
